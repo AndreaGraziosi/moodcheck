@@ -2,7 +2,7 @@
 ### How are you feeling today?
 ![Happy](./public/images/Happy.jpg)
 
-Check out the page [here!](https://AndreaGraziosi.github.io/react-project)
+Check out the page [here!](https://andreagraziosi.github.io/moodcheck/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
